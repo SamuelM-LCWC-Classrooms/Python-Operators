@@ -10,7 +10,7 @@ When you submit this to the GitHub repo, automated tests will run to check your 
 
 **Good luck!**
 
-_**Make sure you do not edit the file test.py!**_
+_**Make sure you do not edit the file test_operators.py!**_
 
 # Task 1 - update the operation
 
